@@ -13,6 +13,7 @@ So this is a list of games falsely marked as 32 bit, which run quite fine on Cat
  * [Pathfinder: Kingmaker - Enhanced Edition](https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Edition/)
  * [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
  * [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)
+ * [Stonehearth](https://store.steampowered.com/app/253250/Stonehearth/)
  * [Torchlight 2](https://store.steampowered.com/app/200710/Torchlight_II/)
  
 ## Really unsupported games
@@ -20,7 +21,9 @@ So this is a list of games falsely marked as 32 bit, which run quite fine on Cat
 I figured it would make sense to also tell, which games actually didn't work.
 Obviously this list might become invalid if the developers update their games for Catalina.
 
+ * [Age of Wonders III](https://store.steampowered.com/app/226840/Age_of_Wonders_III/)
  * [BioShock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)
+ * [Stronghold 3 Gold](https://store.steampowered.com/app/47400/Stronghold_3_Gold/)
  * [Torchlight](https://store.steampowered.com/app/41500/Torchlight/)
  * [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/)
  
