@@ -10,6 +10,7 @@ So this is a list of games falsely marked as 32 bit, which run quite fine on Cat
 
  * [Dungeons 2](https://store.steampowered.com/app/262280/Dungeons_2/)
  * [Dungeons 3](https://store.steampowered.com/app/493900/Dungeons_3/)
+ * [Pathfinder: Kingmaker - Enhanced Edition](https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Edition/)
  * [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)
  * [Torchlight 2](https://store.steampowered.com/app/200710/Torchlight_II/)
  
