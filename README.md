@@ -5,4 +5,6 @@ As apple dropped support for 32 bit applications with Catalina, games supporting
 
 So this is a list of games falsely marked as 32 bit, which run quite fine on Catalina.
 
+ * [Dungeons 2](https://store.steampowered.com/app/262280/Dungeons_2/)
+ * [Dungeons 3](https://store.steampowered.com/app/493900/Dungeons_3/)
  * [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)
