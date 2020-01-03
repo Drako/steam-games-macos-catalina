@@ -37,6 +37,8 @@ Obviously this list might become invalid if the developers update their games fo
  * [Knights and Merchants](https://store.steampowered.com/app/253900/Knights_and_Merchants/)
  * [Magicka 2](https://store.steampowered.com/app/238370/Magicka_2/)
  * [Oil Rush](https://store.steampowered.com/app/200390/Oil_Rush/)
+ * [Omerta - City of Gangsters](https://store.steampowered.com/app/208520/Omerta__City_of_Gangsters/)
+ * [String Suit Zero](https://store.steampowered.com/app/209540/Strike_Suit_Zero/)
  * [Stronghold 3 Gold](https://store.steampowered.com/app/47400/Stronghold_3_Gold/)
  * [Torchlight](https://store.steampowered.com/app/41500/Torchlight/)
  * [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/)
