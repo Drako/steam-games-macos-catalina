@@ -16,6 +16,7 @@ So this is a list of games falsely marked as 32 bit, which run quite fine on Cat
  * [Pillars of Eternity II: Deadfire](https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/)
  * [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)
  * [Stonehearth](https://store.steampowered.com/app/253250/Stonehearth/)
+ * [Teslagrad](https://store.steampowered.com/app/249590/Teslagrad/)
  * [Torchlight 2](https://store.steampowered.com/app/200710/Torchlight_II/)
  
 ## Really unsupported games
@@ -25,10 +26,17 @@ Obviously this list might become invalid if the developers update their games fo
 
  * [Age of Wonders III](https://store.steampowered.com/app/226840/Age_of_Wonders_III/)
  * [Audiosurf 2](https://store.steampowered.com/app/235800/Audiosurf_2/)
+ * [Battle Worlds: Kronos](https://store.steampowered.com/app/237470/Battle_Worlds_Kronos/)
+ * [Beat Hazard](https://store.steampowered.com/app/49600/Beat_Hazard/)
  * [BioShock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)
+ * [Call of Duty: Modern Warfare 2](https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/)
  * [Cornerstone: The Song of Tyrim](https://store.steampowered.com/app/284410/Cornerstone_The_Song_of_Tyrim/)
  * GTA: San Andreas
  * [GTA: Vice City](https://store.steampowered.com/app/12110/Grand_Theft_Auto_Vice_City/)
+ * [Ittle Dew](https://store.steampowered.com/app/241320/Ittle_Dew/)
+ * [Knights and Merchants](https://store.steampowered.com/app/253900/Knights_and_Merchants/)
+ * [Magicka 2](https://store.steampowered.com/app/238370/Magicka_2/)
+ * [Oil Rush](https://store.steampowered.com/app/200390/Oil_Rush/)
  * [Stronghold 3 Gold](https://store.steampowered.com/app/47400/Stronghold_3_Gold/)
  * [Torchlight](https://store.steampowered.com/app/41500/Torchlight/)
  * [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/)
